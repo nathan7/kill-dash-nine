@@ -1,0 +1,27 @@
+{
+  "name": "kill-dash-nine",
+  "version": "1.0.0",
+  "description": "Ye olde kill(3)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathan7/kill-dash-nine.git"
+  },
+  "keywords": [
+    "kill",
+    "unix"
+  ],
+  "author": "Nathan Zadoks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathan7/kill-dash-nine/issues"
+  },
+  "homepage": "https://github.com/nathan7/kill-dash-nine#readme",
+  "dependencies": {
+    "bindings": "^1.2.1",
+    "nan": "^2.0.9"
+  }
+}
