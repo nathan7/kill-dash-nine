@@ -1,6 +1,6 @@
 {
   "name": "kill-dash-nine",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ye olde kill(3)",
   "main": "index.js",
   "scripts": {
